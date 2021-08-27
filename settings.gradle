@@ -1,0 +1,2 @@
+rootProject.name = "AppBar_inflearn_test"
+include ':app'
