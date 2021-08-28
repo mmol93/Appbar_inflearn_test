@@ -9,7 +9,7 @@
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appbar"
-
+        app:layout_behavior=".MainActivity$BlockableAppBarLayoutBehavior"
         android:layout_width="match_parent"
         android:layout_height="192dp"
         app:expanded="false">
